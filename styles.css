@@ -47,7 +47,7 @@ img {
     margin: 0 auto;
 }
 
-.information p:first-child {
+.information h1 {
     font-weight: bold;
     font-size: 1.2em;
 }
